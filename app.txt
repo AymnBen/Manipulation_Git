@@ -1,2 +1,3 @@
 "Version initial" 
 "Feature B - partie 1" 
+"Feature B - partie 2" 
