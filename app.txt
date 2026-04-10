@@ -1,2 +1,1 @@
-"Version initial" 
-"Feature A - partie 1" 
+contenu final propre
